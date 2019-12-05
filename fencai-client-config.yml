@@ -1,0 +1,13 @@
+
+---
+spring.profiles: dev
+server.port: 12005
+---
+spring.profiles: test
+server.port: 12006
+---
+spring.profiles: pre
+server.port: 12007
+---
+spring.profiles: pro
+server.port: 12008
