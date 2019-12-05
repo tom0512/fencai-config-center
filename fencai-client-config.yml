@@ -6,7 +6,7 @@ fencai.teacher: 鲨鱼老师
 ---
 spring.profiles: test
 server.port: 12006
-fencai.teacher: 鲨鱼老师
+fencai.teacher: 鲨鱼老师1
 ---
 spring.profiles: pre
 server.port: 12007
