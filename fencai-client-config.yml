@@ -2,12 +2,16 @@
 ---
 spring.profiles: dev
 server.port: 12005
+fencai.teacher: 鲨鱼老师
 ---
 spring.profiles: test
 server.port: 12006
+fencai.teacher: 鲨鱼老师
 ---
 spring.profiles: pre
 server.port: 12007
+fencai.teacher: 鲨鱼老师
 ---
 spring.profiles: pro
 server.port: 12008
+fencai.teacher: 鲨鱼老师
